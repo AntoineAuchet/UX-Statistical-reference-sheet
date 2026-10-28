@@ -2,7 +2,7 @@
 
 > **EN:** An interactive statistical reference sheet for UX research. User tests & experimental studies: which test to use, why, and under what conditions. Single self-contained HTML file, zero dependencies.
 
-**🌐 Voir la fiche en ligne : [antoineau.github.io/UX-Statistical-reference-sheet](https://antoineau.github.io/UX-Statistical-reference-sheet/)**
+**🌐 Voir la fiche en ligne : [antoineau.github.io/UX-Statistical-reference-sheet](https://antoineauchet.github.io/UX-Statistical-reference-sheet/)**
 
 [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-0d6e5e.svg)](./LICENSE)
 [![Format](https://img.shields.io/badge/format-HTML5%20autonome-2E6F8E.svg)](./fiche_stats_ux.html)
